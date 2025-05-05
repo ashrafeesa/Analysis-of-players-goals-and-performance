@@ -34,7 +34,7 @@ The main goals of the project are:
 ```bash
 git clone https://github.com/ashrafeesa/analysis-of-players-goals-and-performance.git
 cd analysis-of-players-goals-and-performance
-
+```
 
 ## 🌐 Live App
 - Visit the deployed app at:
