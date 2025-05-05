@@ -38,6 +38,6 @@ cd analysis-of-players-goals-and-performance
 
 ## 🌐 Live App
 - Visit the deployed app at:
--👉 `https://analysis-of-players-goals-and-performance-qq5e2czs3dhvxstjd7js.streamlit.app/`
+-👉 https://analysis-of-players-goals-and-performance-qq5e2czs3dhvxstjd7js.streamlit.app
 
 
